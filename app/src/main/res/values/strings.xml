@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BaseAdapter Application</string>
+    <string name="base_adapter">Base Adapter</string>
+    <string name="add">Add</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
